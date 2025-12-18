@@ -196,8 +196,8 @@ car_price_prediction
 
 <h3>1. Clone the Repository</h3>
 <pre>
-git clone https://github.com/yourusername/car-price-prediction.git
-cd car-price-prediction
+git clone https://github.com/Balavenu123/Car-Price-Prediction.git
+cd Car-Price-Prediction
 </pre>
 
 <h3>2. Install Dependencies</h3>
